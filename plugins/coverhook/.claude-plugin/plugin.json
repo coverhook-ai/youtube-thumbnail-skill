@@ -2,7 +2,7 @@
   "name": "coverhook",
   "displayName": "CoverHook",
   "description": "Design click-worthy YouTube thumbnails and channel banners with CoverHook: plan, generate, score and revise from inside Claude. Includes a free thumbnail review that needs no account.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "CoverHook",
     "email": "support@coverhook.com",
@@ -11,6 +11,10 @@
   "homepage": "https://coverhook.com",
   "repository": "https://github.com/coverhook-ai/youtube-thumbnail-skill",
   "license": "MIT",
+  "icon": "./logo.png",
+  "supportUrl": "https://github.com/coverhook-ai/youtube-thumbnail-skill/issues",
+  "privacyPolicyUrl": "https://coverhook.com/privacy",
+  "termsOfServiceUrl": "https://coverhook.com/terms",
   "keywords": [
     "youtube",
     "thumbnail",
@@ -20,11 +24,7 @@
     "design",
     "image-generation"
   ],
-  "icon": "./logo.png",
   "documentationUrl": "https://github.com/coverhook-ai/youtube-thumbnail-skill#readme",
-  "supportUrl": "https://github.com/coverhook-ai/youtube-thumbnail-skill/issues",
-  "privacyPolicyUrl": "https://coverhook.com/privacy",
-  "termsOfServiceUrl": "https://coverhook.com/terms",
   "userConfig": {
     "api_key": {
       "type": "string",

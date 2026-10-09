@@ -25,6 +25,8 @@ To get a key, sign in at https://coverhook.com/account and create one in the API
 
 Or just ask: "review this thumbnail", "make a thumbnail for my Minecraft video", "design a banner for my cooking channel".
 
+Want only the free review, with nothing that connects to CoverHook? Install `coverhook-thumbnail-review` from the same marketplace instead: it works in claude.ai and Cowork as well as Claude Code.
+
 Generated designs are scored against rules for the channel's niche and revised when they fall short. The design rules stay on CoverHook's side; this repository holds only the workflows that tell Claude when to call which tool.
 
 ## MCP server only

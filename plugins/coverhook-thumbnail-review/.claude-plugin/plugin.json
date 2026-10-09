@@ -1,0 +1,27 @@
+{
+  "name": "coverhook-thumbnail-review",
+  "displayName": "CoverHook Thumbnail Review",
+  "description": "Review a YouTube thumbnail the way viewers see it: what to fix first for readability at feed size, subject, text, contrast and how it pairs with the title. No account needed.",
+  "version": "0.1.0",
+  "author": {
+    "name": "CoverHook",
+    "email": "support@coverhook.com",
+    "url": "https://coverhook.com"
+  },
+  "homepage": "https://coverhook.com",
+  "repository": "https://github.com/coverhook-ai/youtube-thumbnail-skill",
+  "license": "MIT",
+  "icon": "./logo.png",
+  "supportUrl": "https://github.com/coverhook-ai/youtube-thumbnail-skill/issues",
+  "privacyPolicyUrl": "https://coverhook.com/privacy",
+  "termsOfServiceUrl": "https://coverhook.com/terms",
+  "keywords": [
+    "youtube",
+    "thumbnail",
+    "youtube-thumbnail",
+    "thumbnail-review",
+    "youtube-creator",
+    "feedback"
+  ],
+  "documentationUrl": "https://github.com/coverhook-ai/youtube-thumbnail-skill/tree/main/plugins/coverhook-thumbnail-review#readme"
+}

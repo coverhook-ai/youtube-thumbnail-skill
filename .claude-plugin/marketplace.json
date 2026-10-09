@@ -11,6 +11,12 @@
       "name": "coverhook",
       "source": "./plugins/coverhook",
       "description": "Design click-worthy YouTube thumbnails and channel banners with CoverHook: plan, generate, score and revise from inside Claude. Includes a free thumbnail review that needs no account.",
+      "version": "0.1.1"
+    },
+    {
+      "name": "coverhook-thumbnail-review",
+      "source": "./plugins/coverhook-thumbnail-review",
+      "description": "Review a YouTube thumbnail the way viewers see it: what to fix first for readability at feed size, subject, text, contrast and how it pairs with the title. No account needed.",
       "version": "0.1.0"
     }
   ]
