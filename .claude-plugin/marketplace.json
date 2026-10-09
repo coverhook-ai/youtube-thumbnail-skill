@@ -1,0 +1,17 @@
+{
+  "name": "coverhook",
+  "owner": {
+    "name": "CoverHook",
+    "email": "support@coverhook.com",
+    "url": "https://coverhook.com"
+  },
+  "description": "CoverHook's design skills for Claude.",
+  "plugins": [
+    {
+      "name": "coverhook",
+      "source": "./plugins/coverhook",
+      "description": "Design click-worthy YouTube thumbnails and channel banners with CoverHook: plan, generate, score and revise from inside Claude. Includes a free thumbnail review that needs no account.",
+      "version": "0.1.0"
+    }
+  ]
+}
